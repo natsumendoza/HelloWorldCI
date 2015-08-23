@@ -1,0 +1,2 @@
+# HelloWorldCI
+Practice CodeIgniter
